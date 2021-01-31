@@ -4,7 +4,7 @@ html {
 }
 @font-face {
   font-family: BebasNeueBold;
-  src: url("/fonts/ofont.ru_Bebas\ Neue.ttf");
+  src: url("../fonts/ofont.ru_Bebas\ Neue.ttf");
 }
 body {
   color: #48555b;
@@ -16,7 +16,7 @@ section {
 .first {
   width: 100vw;
   height: 100vh;
-  background-image: url("/img/main-bg.jpg");
+  background-image: url("../img/main-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
