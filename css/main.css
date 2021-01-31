@@ -16,7 +16,7 @@ section {
 .first {
   width: 100vw;
   height: 100vh;
-  background-image: url("/img/main-bg.png");
+  background-image: url("/img/main-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
